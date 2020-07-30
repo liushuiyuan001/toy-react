@@ -4,6 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
+    "dev": "NODE_ENV=development webpack --watch --mode=development",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
